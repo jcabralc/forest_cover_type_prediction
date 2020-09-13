@@ -7,3 +7,5 @@ In this competition you are asked to predict the forest cover type (the predomin
 This study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices.
 
 For more information access [Forest Cover Type Prediction on Kaggle](https://www.kaggle.com/c/forest-cover-type-prediction/overview) 
+
+Blog Post in Portuguêse [here](https://jcabralc.wordpress.com/2020/08/29/brincando-com-pycaret-e-tipos-de-florestas/)!
