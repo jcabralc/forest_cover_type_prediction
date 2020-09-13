@@ -137,3 +137,4 @@ data/test.csv
 data/train.csv
 data/sampleSubmission.csv
 submissions/*csv
+notebooks/modeling/catboost_info/*
